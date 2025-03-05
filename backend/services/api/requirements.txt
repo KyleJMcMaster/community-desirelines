@@ -1,0 +1,7 @@
+geopandas
+Flask
+matplotlib
+contextily
+mysql-connector-python
+python-dotenv
+flask-cors
